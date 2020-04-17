@@ -10,6 +10,10 @@
 	margin-left: 10px;
 	text-align: left;
 	font-family: 'Amiri', serif;
+	background-image: url('Images/sunset3.jpg');
+  	background-repeat: no-repeat;
+ 	background-attachment: fixed; 
+ 	background-size: 55% 10%;
 }
 
 .div1 {
@@ -50,10 +54,3 @@ div.container {
 	color: blue
 }
 
-
-.body {
-  background-image: url('Images/sunset3.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 55% 10%;
-}
