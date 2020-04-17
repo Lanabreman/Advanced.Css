@@ -10,19 +10,24 @@
 	margin-left: 10px;
 	text-align: left;
 	font-family: 'Amiri', serif;
-	background-image: url('images/sunset3.jpg');
-  	background-repeat: no-repeat;
- 	background-attachment: fixed; 
- 	background-size: 55% 10%;
 }
 
-.div1 {
+.div1{
     background-color: #DAA4CD;
-    width: 845px;
+    width: 900px;
     height: 354px;
+    margin-left: auto;
+    margin-right: auto;
 }
-.h4 {
+
+.background-image {
+	background-image: url('../Images/sunset3.jpg');
+	width: 1000px;
+}
+
+.header {
 	margin-left: 10px;
+	font-size: 22px;
 	color: black;
 	text-align: left;
 	font-family: 'Amiri', serif;
@@ -53,4 +58,22 @@ div.container {
 .container {
 	color: blue
 }
+.container-text {
+	margin-left: 20px;
+	margin-right: 20px;
+}
 
+.container4 {
+	background-color: #DAA4CD;
+	width: 1000px;
+	padding-top: 50px;
+}
+
+.footer {
+	font-size: 10px;
+	background-color: #DAA4CD;
+	width: 1000px;
+	color: black;
+	text-align: left;
+	font-family: 'Amiri', serif;
+}
